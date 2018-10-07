@@ -67,7 +67,7 @@ Codes for each question in cracking the coding interview
 #Chapter8
 
 - [x] [8.1 Triple Step](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter8/TripleStep.java)
-- [ ] [8.2 Robot in a Grid]() 
+- [x] [8.2 Robot in a Grid]() 
 - [ ] [8.3 Magic Index]()
 - [ ] [8.4 Power Set]()
 - [ ] [8.5 Recursive Multiply]()
