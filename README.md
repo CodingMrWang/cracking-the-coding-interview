@@ -24,7 +24,7 @@ Codes for each question in cracking the coding interview
 - [ ] 3.1 Three in One
 - [x] [3.2 Stack Min](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter3/MinStack.java)
 - [x] [3.3 Stack of Plates](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter3/SetOfStacks.java)
-- [x] [3.4 Queue via Stacks] (https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter3/StackQueue.java)
+- [x] [3.4 Queue via Stacks](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter3/StackQueue.java)
 - [x] [3.5 Sort Stack](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter3/SortStack.java)
 - [ ] 3.6 Animal Shelter
 
