@@ -30,12 +30,18 @@ Codes for each question in cracking the coding interview
 
 #Chapter4
 
-- [ ] 
-- [ ] 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [x] [4.1 Route Between Nodes](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/Route.java)
+- [x] [4.2 Minimal Tree](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/CreateMinBST.java)
+- [x] [4.3 List of Depths](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/ListOfDepth.java)
+- [x] [4.4 Check Balanced](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/CheckBalance.java)
+- [x] [4.5 Validate BST](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/checkBST.java)
+- [X] [4.6 Successor](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/BSTSuccessor.java)
+- [x] [4.7 Build Order](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/BuildOrder.java)
+- [x] [4.8 First Common Ancestor](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/LCA.java)
+- [ ] [4.9 BST Sequence]
+- [x] [4.10 Check Subtree](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/CheckSubTree.java)
+- [x] [4.11 Random Node](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/RandomNode.java)
+- [x] [4.12 Paths with Sum](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter4/PathSum.java) dfs go through all paths, and sum from end to beginning.
 
 #Chapter5
 
