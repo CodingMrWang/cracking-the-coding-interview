@@ -83,10 +83,10 @@ Codes for each question in cracking the coding interview
 - [x] [8.8 Permutations with Dups](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter8/PermutationII.java)
 - [x] [8.9 Parens](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter8/Parens.java)
 - [ ] [8.10 Paint Fill]()
-- [ ] [8.11 Coins]()
-- [ ] [8.12 Eight Queens]()
-- [ ] [8.13 Stack of Boxes]()
-- [ ] [8.14 Boolean Evaluation]()
+- [x] [8.11 Coins](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter8/Coins.java)
+- [x] [8.12 Eight Queens](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter8/EightQueens.java)
+- [x] [8.13 Stack of Boxes](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter8/StackBox.java)
+- [x] [8.14 Boolean Evaluation](https://github.com/CodingMrWang/cracking-the-coding-interview/blob/master/Chapter8/BooleanEvaluation.java)
 
 #Chapter9
 
